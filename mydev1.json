@@ -9,7 +9,7 @@
           "foreground": "#ffffff",
           "leading_diamond": "",
           "style": "diamond",
-          "template": "📦{{ .Env.DEVBOX_PROJECT_ROOT }}📦 {{ .UserName }}@{{ .HostName }} ",
+          "template": "📦{{ .Env.DEVBOX_PROJECT_NAME }}📦 {{ .UserName }}@{{ .HostName }} ",
           "trailing_diamond": "",
           "type": "session"
         },
